@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Qadis\\source\\repos\\DamProject_PCStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F831FB8-B456-4C9E-A004-8D21357D5101}|DamProject_PCStore\\DamProject_PCStore.csproj|c:\\users\\qadis\\source\\repos\\damproject_pcstore\\damproject_pcstore\\custompc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F831FB8-B456-4C9E-A004-8D21357D5101}|DamProject_PCStore\\DamProject_PCStore.csproj|solutionrelative:damproject_pcstore\\custompc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F831FB8-B456-4C9E-A004-8D21357D5101}|DamProject_PCStore\\DamProject_PCStore.csproj|C:\\Users\\Qadis\\source\\repos\\DamProject_PCStore\\damproject_pcstore\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1F831FB8-B456-4C9E-A004-8D21357D5101}|DamProject_PCStore\\DamProject_PCStore.csproj|solutionrelative:damproject_pcstore\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F831FB8-B456-4C9E-A004-8D21357D5101}|DamProject_PCStore\\DamProject_PCStore.csproj|C:\\Users\\Qadis\\source\\repos\\DamProject_PCStore\\damproject_pcstore\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1F831FB8-B456-4C9E-A004-8D21357D5101}|DamProject_PCStore\\DamProject_PCStore.csproj|solutionrelative:damproject_pcstore\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F831FB8-B456-4C9E-A004-8D21357D5101}|DamProject_PCStore\\DamProject_PCStore.csproj|C:\\Users\\Qadis\\source\\repos\\DamProject_PCStore\\damproject_pcstore\\custompc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1F831FB8-B456-4C9E-A004-8D21357D5101}|DamProject_PCStore\\DamProject_PCStore.csproj|solutionrelative:damproject_pcstore\\custompc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F831FB8-B456-4C9E-A004-8D21357D5101}|DamProject_PCStore\\DamProject_PCStore.csproj|C:\\Users\\Qadis\\source\\repos\\DamProject_PCStore\\damproject_pcstore\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F831FB8-B456-4C9E-A004-8D21357D5101}|DamProject_PCStore\\DamProject_PCStore.csproj|solutionrelative:damproject_pcstore\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F831FB8-B456-4C9E-A004-8D21357D5101}|DamProject_PCStore\\DamProject_PCStore.csproj|C:\\Users\\Qadis\\source\\repos\\DamProject_PCStore\\damproject_pcstore\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1F831FB8-B456-4C9E-A004-8D21357D5101}|DamProject_PCStore\\DamProject_PCStore.csproj|solutionrelative:damproject_pcstore\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F831FB8-B456-4C9E-A004-8D21357D5101}|DamProject_PCStore\\DamProject_PCStore.csproj|C:\\Users\\Qadis\\source\\repos\\DamProject_PCStore\\damproject_pcstore\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1F831FB8-B456-4C9E-A004-8D21357D5101}|DamProject_PCStore\\DamProject_PCStore.csproj|solutionrelative:damproject_pcstore\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F831FB8-B456-4C9E-A004-8D21357D5101}|DamProject_PCStore\\DamProject_PCStore.csproj|C:\\Users\\Qadis\\source\\repos\\DamProject_PCStore\\damproject_pcstore\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F831FB8-B456-4C9E-A004-8D21357D5101}|DamProject_PCStore\\DamProject_PCStore.csproj|solutionrelative:damproject_pcstore\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F831FB8-B456-4C9E-A004-8D21357D5101}|DamProject_PCStore\\DamProject_PCStore.csproj|C:\\Users\\Qadis\\source\\repos\\DamProject_PCStore\\damproject_pcstore\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F831FB8-B456-4C9E-A004-8D21357D5101}|DamProject_PCStore\\DamProject_PCStore.csproj|solutionrelative:damproject_pcstore\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F831FB8-B456-4C9E-A004-8D21357D5101}|DamProject_PCStore\\DamProject_PCStore.csproj|C:\\Users\\Qadis\\source\\repos\\DamProject_PCStore\\damproject_pcstore\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F831FB8-B456-4C9E-A004-8D21357D5101}|DamProject_PCStore\\DamProject_PCStore.csproj|solutionrelative:damproject_pcstore\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Customer.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Qadis\\source\\repos\\DamProject_PCStore\\DamProject_PCStore\\Customer.cs",
+              "RelativeDocumentMoniker": "DamProject_PCStore\\Customer.cs",
+              "ToolTip": "C:\\Users\\Qadis\\source\\repos\\DamProject_PCStore\\DamProject_PCStore\\Customer.cs [Design]",
+              "RelativeToolTip": "DamProject_PCStore\\Customer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T19:10:41.305Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Orders.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Qadis\\source\\repos\\DamProject_PCStore\\DamProject_PCStore\\Orders.cs",
+              "RelativeDocumentMoniker": "DamProject_PCStore\\Orders.cs",
+              "ToolTip": "C:\\Users\\Qadis\\source\\repos\\DamProject_PCStore\\DamProject_PCStore\\Orders.cs [Design]",
+              "RelativeToolTip": "DamProject_PCStore\\Orders.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T07:32:03.438Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Orders.cs",
+              "DocumentMoniker": "C:\\Users\\Qadis\\source\\repos\\DamProject_PCStore\\DamProject_PCStore\\Orders.cs",
+              "RelativeDocumentMoniker": "DamProject_PCStore\\Orders.cs",
+              "ToolTip": "C:\\Users\\Qadis\\source\\repos\\DamProject_PCStore\\DamProject_PCStore\\Orders.cs",
+              "RelativeToolTip": "DamProject_PCStore\\Orders.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAADwvxcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T07:36:45.3Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Qadis\\source\\repos\\DamProject_PCStore\\DamProject_PCStore\\Customer.cs",
+              "RelativeDocumentMoniker": "DamProject_PCStore\\Customer.cs",
+              "ToolTip": "C:\\Users\\Qadis\\source\\repos\\DamProject_PCStore\\DamProject_PCStore\\Customer.cs",
+              "RelativeToolTip": "DamProject_PCStore\\Customer.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAkwBsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T19:13:36.069Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderDetails.cs",
+              "DocumentMoniker": "C:\\Users\\Qadis\\source\\repos\\DamProject_PCStore\\DamProject_PCStore\\OrderDetails.cs",
+              "RelativeDocumentMoniker": "DamProject_PCStore\\OrderDetails.cs",
+              "ToolTip": "C:\\Users\\Qadis\\source\\repos\\DamProject_PCStore\\DamProject_PCStore\\OrderDetails.cs",
+              "RelativeToolTip": "DamProject_PCStore\\OrderDetails.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAiwBwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T08:51:45.315Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\Qadis\\source\\repos\\DamProject_PCStore\\DamProject_PCStore\\Dashboard.cs",
+              "RelativeDocumentMoniker": "DamProject_PCStore\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\Qadis\\source\\repos\\DamProject_PCStore\\DamProject_PCStore\\Dashboard.cs",
+              "RelativeToolTip": "DamProject_PCStore\\Dashboard.cs",
+              "ViewState": "AQIAALUAAAAAAAAAAAAAAL4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T19:11:38.933Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Qadis\\source\\repos\\DamProject_PCStore\\DamProject_PCStore\\Dashboard.cs",
+              "RelativeDocumentMoniker": "DamProject_PCStore\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\Qadis\\source\\repos\\DamProject_PCStore\\DamProject_PCStore\\Dashboard.cs [Design]",
+              "RelativeToolTip": "DamProject_PCStore\\Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T19:11:37.174Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderDetails.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Qadis\\source\\repos\\DamProject_PCStore\\DamProject_PCStore\\OrderDetails.cs",
+              "RelativeDocumentMoniker": "DamProject_PCStore\\OrderDetails.cs",
+              "ToolTip": "C:\\Users\\Qadis\\source\\repos\\DamProject_PCStore\\DamProject_PCStore\\OrderDetails.cs [Design]",
+              "RelativeToolTip": "DamProject_PCStore\\OrderDetails.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T07:42:02.991Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomPC.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Qadis\\source\\repos\\DamProject_PCStore\\DamProject_PCStore\\CustomPC.cs",
+              "RelativeDocumentMoniker": "DamProject_PCStore\\CustomPC.cs",
+              "ToolTip": "C:\\Users\\Qadis\\source\\repos\\DamProject_PCStore\\DamProject_PCStore\\CustomPC.cs [Design]",
+              "RelativeToolTip": "DamProject_PCStore\\CustomPC.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T07:27:41.618Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomPC.cs",
+              "DocumentMoniker": "C:\\Users\\Qadis\\source\\repos\\DamProject_PCStore\\DamProject_PCStore\\CustomPC.cs",
+              "RelativeDocumentMoniker": "DamProject_PCStore\\CustomPC.cs",
+              "ToolTip": "C:\\Users\\Qadis\\source\\repos\\DamProject_PCStore\\DamProject_PCStore\\CustomPC.cs",
+              "RelativeToolTip": "DamProject_PCStore\\CustomPC.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAswHoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T07:27:45.767Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
